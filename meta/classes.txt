@@ -1,0 +1,7 @@
+alchool_drink
+exterieur
+food
+interieur
+menu
+non_alchool_drink
+peoples
