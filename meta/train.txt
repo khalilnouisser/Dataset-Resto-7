@@ -180,7 +180,6 @@ alchool_drink/610
 peoples/5965.jpg
 non_alchool_drink/4336.jpg
 peoples/5625.jpg
-menu/4138.png
 food/1953.jpg
 food/1749.jpg
 alchool_drink/196.jpg
