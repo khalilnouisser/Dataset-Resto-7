@@ -38,7 +38,6 @@ food/9_28.jpg
 menu/138.2017-menu-app-soup.jpg
 interieur/78.ambience-restaurant-03-1200x800.jpg
 exterieur/103.Medina_0.jpg
-alchool_drink/184.white-wine-image%20(1).jpg
 food/3_45.jpg
 interieur/32.Fer-Peint-Vintage-Bar-Int%C3%A9rieur-Pendentif-Lampe-H%C3%B4tel-Salle-Salon-Center-Commercial-Club-Caf%C3%A9-Maison-Salle.jpg
 peoples/200.20190313-182245-PizzaChainsLocal-1.jpg
@@ -1224,7 +1223,6 @@ non_alchool_drink/58.new-espresso-glass_full.jpg
 menu/289.luxury-thai-menu-restaurant-template-vector.png
 exterieur/151.facade-de-notre-restaurant.jpg
 food/10_40.jpg
-menu/277.mimmo_menu(2).jpg
 food/5_65.jpg
 peoples/6.family_party1.jpg
 non_alchool_drink/101.i36682-cocktail-jus-de-fruit.jpg
